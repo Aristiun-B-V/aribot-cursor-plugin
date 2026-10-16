@@ -1,0 +1,15 @@
+{
+  "name": "aribot",
+  "displayName": "Aribot",
+  "version": "1.1.0",
+  "description": "Connects Cursor to your Aribot workspace: threat-model diagrams and their threats, cloud compliance posture from daily scans, code-security and shadow-AI findings, framework coverage, and governed remediation. OAuth sign-in with your Aribot account.",
+  "author": {
+    "name": "Ayurak B.V.",
+    "email": "privacy@ayurak.com"
+  },
+  "homepage": "https://aribot.ayurak.com",
+  "repository": "https://github.com/Aristiun-B-V/aribot-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["security", "compliance", "threat-modeling", "cloud-security", "grc", "mcp"],
+  "logo": "logo.png"
+}
